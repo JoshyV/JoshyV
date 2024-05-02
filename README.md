@@ -19,7 +19,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JoshyV/JoshyV/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JoshyV/JoshyV/snake.svg" alt="Snake animation" />
 
 ###
 
