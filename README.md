@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm JoshyV!</h1>
 <p align="center">
-    <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>Avid C & Python Enjoyer</b>
+    <i>Self proclaimed</i> <b>CEO of Procrastination</b> <i>and</i> <b>Java & Javascript Enjoyer</b>
     <br />
     <br />
     <a href="https://hits.seeyoufarm.com/">
