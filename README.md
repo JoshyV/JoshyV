@@ -57,7 +57,7 @@ if __name__ == "__main__":
 Projects 📦
 -----------
 
-- #### <a href="https://github.com/JoshyV/CRUD-RESTful-API"><img align="center" src="https://img.shields.io/github/v/release/Next-Flip/CRUD-RESTful?label=CRUD-RESTful&style=for-the-badge&labelColor=7771DB&color=222222"></a> 
+- #### <a href="https://github.com/JoshyV/CRUD-RESTful-API"><img align="center" src="https://img.shields.io/github/v/release/Next-Flip/CRUD-RESTful-API?label=CRUD-RESTful-API&style=for-the-badge&labelColor=7771DB&color=222222"></a> 
 
 <br />
 
